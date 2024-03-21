@@ -1,0 +1,7 @@
+.preto {background-color: gray;}
+
+.grid {
+	display: grid;
+	grid-template-columns: repeat(8, 50px);
+	grid-template-rows: repeat(1, 50px);
+}
